@@ -1,0 +1,3 @@
+- 👋 Hi, I'm @Alipas2412
+- 👀 I'm interested in programming
+- 🌱 I am currently learning at Platzi
